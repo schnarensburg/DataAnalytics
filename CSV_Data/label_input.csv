@@ -1,0 +1,133 @@
+time,affect,context,affect_binary
+1684251026,Gelangweilt,Laufen,0
+1684251026,Zufrieden,Laufen,1
+1684251026,Zufrieden,Laufen,1
+1684251026,Erfreut,Laufen,1
+1684251026,Betrübt,Laufen,0
+1684251026,Frustriert,Laufen,0
+1684251026,Begeistert,Laufen,1
+1684251026,Glücklich,Laufen,1
+1684251026,Frustriert,Laufen,0
+1684251026,Erfreut,Laufen,1
+1684251026,Gelangweilt,Laufen,0
+1684251026,Gelangweilt,Laufen,0
+1684251026,Deprimiert,Laufen,0
+1684251026,Zufrieden,Laufen,1
+1684251026,Erfüllt,Laufen,1
+1684251026,Erfreut,Laufen,1
+1684251026,Angespannt,Laufen,0
+1684251026,Angespannt,Laufen,0
+1684251026,Zufrieden,Laufen,1
+1684251026,Schläfrig,Laufen,0
+1684251026,Zufrieden,Laufen,1
+1684251026,Zufrieden,Laufen,1
+1684251026,Ruhig,Laufen,1
+1684251026,Ruhig,Laufen,1
+1684251026,Glücklich,Laufen,1
+1684251026,Aufgeregt,Laufen,1
+1684251026,Angespannt,Laufen,0
+1684233673,Zufrieden,Unterhaltung,1
+1684233673,Erfreut,Unterhaltung,1
+1684233673,Ruhig,Unterhaltung,1
+1684233673,Ruhig,Unterhaltung,1
+1684233673,Erfreut,Unterhaltung,1
+1684233673,Aufgeregt,Unterhaltung,1
+1684233673,Begeistert,Unterhaltung,1
+1684233673,Zufrieden,Unterhaltung,1
+1684233673,Ruhig,Unterhaltung,1
+1684233673,Zufrieden,Unterhaltung,1
+1684233673,Zufrieden,Unterhaltung,1
+1684233673,Begeistert,Unterhaltung,1
+1684233673,Ruhig,Unterhaltung,1
+1684233673,Ruhig,Unterhaltung,1
+1684233673,Schläfrig,Unterhaltung,0
+1684234128,Glücklich,Unterhaltung,1
+1684234128,Begeistert,Unterhaltung,1
+1684234128,Zufrieden,Unterhaltung,1
+1684234128,Begeistert,Unterhaltung,1
+1684234128,Ruhig,Unterhaltung,1
+1684234128,Schläfrig,Unterhaltung,0
+1684234128,Erfreut,Unterhaltung,1
+1684234128,Erfüllt,Unterhaltung,1
+1684234128,Ruhig,Unterhaltung,1
+1684234128,Zufrieden,Unterhaltung,1
+1684234128,Glücklich,Unterhaltung,1
+1684234128,Glücklich,Unterhaltung,1
+1684234128,Begeistert,Unterhaltung,1
+1684234128,Glücklich,Unterhaltung,1
+1684234128,Ruhig,Unterhaltung,1
+1684234110,Zufrieden,Stand anschauen,1
+1684234110,Erfreut,Stand anschauen,1
+1684234110,Frustriert,Stand anschauen,0
+1684234110,Deprimiert,Stand anschauen,0
+1684234110,Glücklich,Stand anschauen,1
+1684234110,Schläfrig,Stand anschauen,0
+1684234110,Gelangweilt,Stand anschauen,0
+1684234110,Ruhig,Stand anschauen,1
+1684234110,Angespannt,Stand anschauen,0
+1684234110,Gelangweilt,Stand anschauen,0
+1684234120,Zufrieden,Sonstiges,1
+1684234120,Zufrieden,Sonstiges,1
+1684234120,Glücklich,Sonstiges,1
+1684234120,Zufrieden,Sonstiges,1
+1684234120,Begeistert,Sonstiges,1
+1684234120,Zufrieden,Sonstiges,1
+1684234120,Ruhig,Sonstiges,1
+1684234120,Aufgeregt,Sonstiges,1
+1684234120,Zufrieden,Sonstiges,1
+1684234120,Begeistert,Sonstiges,1
+1684234120,Glücklich,Sonstiges,1
+1684234120,Ruhig,Unterhaltung,1
+1684234120,Glücklich,Unterhaltung,1
+1684234120,Ruhig,Unterhaltung,1
+1684234120,Aufgeregt,Unterhaltung,1
+1684234120,Frustriert,Unterhaltung,0
+1684234120,Erfreut,Unterhaltung,1
+1684234120,Glücklich,Unterhaltung,1
+1684234120,Schläfrig,Unterhaltung,0
+1684234120,Erfreut,Unterhaltung,1
+1684233714,Aufgeregt,Unterhaltung,1
+1684233714,Erfreut,Unterhaltung,1
+1684233714,Aufgeregt,Unterhaltung,1
+1684233714,Frustriert,Unterhaltung,0
+1684233714,Begeistert,Unterhaltung,1
+1684233714,Erfreut,Unterhaltung,1
+1684233714,Angespannt,Unterhaltung,0
+1684233714,Zufrieden,Unterhaltung,1
+1684233714,Erfüllt,Unterhaltung,1
+1684234118,Aufgeregt,Stand anschauen,1
+1684234118,Begeistert,Stand anschauen,1
+1684234118,Glücklich,Stand anschauen,1
+1684234118,Begeistert,Stand anschauen,1
+1684234118,Zufrieden,Stand anschauen,1
+1684234118,Deprimiert,Stand anschauen,0
+1684234118,Erfreut,Stand anschauen,1
+1684234118,Zufrieden,Stand anschauen,1
+1684234118,Begeistert,Stand anschauen,1
+1684234118,Frustriert,Stand anschauen,0
+1684234118,Ruhig,Stand anschauen,1
+1684234118,Zufrieden,Stand anschauen,1
+1684234118,Begeistert,Stand anschauen,1
+1684234118,Aufgeregt,Stand anschauen,1
+1684234118,Schläfrig,Stand anschauen,0
+1684234118,Erfüllt,Stand anschauen,1
+1684234118,Erfreut,Stand anschauen,1
+1684234118,Aufgeregt,Stand anschauen,1
+1684234118,Aufgeregt,Stand anschauen,1
+1684234118,Begeistert,Stand anschauen,1
+1684234118,Glücklich,Stand anschauen,1
+1684234118,Begeistert,Stand anschauen,1
+1684234118,Zufrieden,Stand anschauen,1
+1684234118,Deprimiert,Stand anschauen,0
+1684234118,Erfreut,Stand anschauen,1
+1684234118,Zufrieden,Stand anschauen,1
+1684234118,Begeistert,Stand anschauen,1
+1684234118,Frustriert,Stand anschauen,0
+1684234118,Ruhig,Stand anschauen,1
+1684234118,Zufrieden,Stand anschauen,1
+1684234118,Begeistert,Stand anschauen,1
+1684234118,Aufgeregt,Stand anschauen,1
+1684234118,Schläfrig,Stand anschauen,0
+1684234118,Erfüllt,Stand anschauen,1
+1684234118,Erfreut,Stand anschauen,1
+1684234118,Aufgeregt,Stand anschauen,1
