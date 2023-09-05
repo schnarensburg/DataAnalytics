@@ -271,6 +271,10 @@ db_folder = '../databases'
 destination_db = '../Merged_DB.db'
 
 generate_label(db_folder)
+'''
+add_sessionId takes a lot of computing time. Looping through all the databases and tables to execute SQL commands 
+is quite time intensive.
+'''
 add_sessionId(db_folder)
 copy_to_new_db(db_folder, destination_db)
 '''
